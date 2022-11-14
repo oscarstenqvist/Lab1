@@ -1,0 +1,10 @@
+Hitta första förekommelsen av tal vid sökning, inte hitta dubletter
+Vid sortering kan det finnas dubletter 
+Så länge jag reflekterar över varför bubblesort average tar längre tid än worst case i rapporten så
+ska det inte vara något problem
+
+Nått mysko med bubblesort average, testa annan dator för den växer mer än n^2
+
+vid sökalgorithm börja på större tal för att få bättre värden
+
+Testa använda glock_gettime()
